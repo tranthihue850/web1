@@ -21,7 +21,7 @@
                 </p>
             </section>
             <section class="col-md-4" aria-labelledby="librariesTitle">
-                <h2 id="librariesTitle">Get more libraries</h2>
+                <h2 id="librariesTitle">This is Jason</h2>
                 <p>
                     NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
                 </p>
@@ -30,7 +30,7 @@
                 </p>
             </section>
             <section class="col-md-4" aria-labelledby="hostingTitle">
-                <h2 id="hostingTitle">Web Hosting</h2>
+                <h2 id="hostingTitle">This is Ryan</h2>
                 <p>
                     You can easily find a web hosting company that offers the right mix of features and price for your applications.
                 </p>
